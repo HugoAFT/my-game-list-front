@@ -1,23 +1,18 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import Home from './components/Home.vue'
 </script>
 
 <template>
-  <header>
-       
-  </header>
-
-  <main>
-   <h1>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima blanditiis tenetur quidem fugiat nulla voluptatem nihil dolores aliquam, quos minus veritatis odio, voluptates deserunt hic culpa at, molestiae accusamus. Nihil?
-   </h1>
-   </main>
+  <Home></Home>
 </template>
 
 <style>
 body {
   font-family: 'Inter', sans-serif !important;
+}
+
+.chakra {
+  font-family: 'Chakra Petch', sans-serif !important;
 }
 </style>
 <script>
