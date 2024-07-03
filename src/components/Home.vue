@@ -38,10 +38,25 @@
   </nav>
   
   <section class="section is-large">
-    <h1 class="title chakra">Texto do Site*</h1>
-    <h2 class="subtitle">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, ducimus eius tenetur sit omnis ipsam, tempore iusto atque molestias, in hic vel vero saepe ad voluptatibus quam dolores maxime odit! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis necessitatibus aperiam repellendus eaque voluptatem mollitia nemo, quis error explicabo, ad consectetur omnis tempora excepturi aspernatur alias veritatis maxime labore doloremque.
+    <h1 class="title chakra">Bem-Vindo ao My Games List!</h1>
+    <p>Sua parada obrigatória para descobrir, explorar e acompanhar os melhores jogos disponíveis. Se você é um entusiasta dos games, um jogador casual ou apenas alguém em busca de novas aventuras digitais, está no lugar certo.</p>
+
+    <h2 class="subtitle"> O que você encontrará aqui:<br>
+
+      <ul>
+        <li type="circle"><strong>Lista Curada de Jogos:</strong> Nossa equipe dedica-se a selecionar os jogos mais populares, inovadores e emocionantes, abrangendo diversas plataformas e gêneros. Seja você fã de ação, aventura, RPG, estratégia ou esportes, temos algo para todos.</li>>
+        <li type="circle"><strong>Avaliações e Análises:</strong> Leia análises detalhadas e imparciais dos jogos que você ama ou está pensando em experimentar. Nossa missão é fornecer informações precisas para que você possa tomar decisões informadas.</li>
+        <li type="circle"><strong>Novidades e Lançamentos:</strong> Fique por dentro dos lançamentos mais recentes e das notícias mais quentes do mundo dos games. Atualizamos nosso conteúdo regularmente para garantir que você não perca nada.</li>
+        <li type="circle"><strong>Comunidade Vibrante:</strong> Junte-se à nossa comunidade de gamers, participe de discussões, compartilhe suas opiniões e conecte-se com pessoas que compartilham a mesma paixão por jogos.</li>
+      </ul>
+
     </h2>
+
+    <h2>Vamos Jogar?</h2>
+
+    <p>Navegue pelo nosso site, descubra novos jogos e compartilhe suas experiências conosco. Seja bem-vindo à comunidade My Games List!</p>
+
+ 
   </section>
   
   <section class="section is-large">
